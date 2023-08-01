@@ -30,12 +30,7 @@
 <br>
 </div>
   
-<!--- Country ---> 
-<a href="https://github.com/alireza01100011"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_9/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@alireza01100011" border="0"></a>
-  
-<!-- <a href="https://github.com/bastndev/41uN"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="@bastndev" border="0"></a> -->
-<!--   
-<a href="https://info.flagcounter.com/41uN"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>  -->
+
 
   
  <!------------------------------------------------Sneek Gusano-------------------------------------------->
