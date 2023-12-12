@@ -10,12 +10,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza01100011&layout=compact&hide_border=true&title_color=00b3ff&text_color=FFFFFF&bg_color=0d1117" />
 </div> 
 
-<!--Social Media-->  
-<div align="center"> 
-<a href="https://t.me/alireza01100011" target="_blank"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=bule" ></a>
- <a href="https://www.instagram.com/alireza_rp536/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 
- </div>
   
  <!--Total Contributions--> 
  <p align="center">
