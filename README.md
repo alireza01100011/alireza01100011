@@ -1,40 +1,39 @@
 <!--Title @bastndev-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Iran'm+17+years+old;my+name+is+Alireza;Welcome!) 
 
+### Hello, my name is Alireza! :shipit:
+
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alireza01100011)
 
 
-<!--Skill And More Information--> 
-<div align="center">
-  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=alireza01100011&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00b3ff&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Bastian Dev github stats" />
+Welcome to my GitHub page! I'm Alireza and I'm currently finishing high school
+
+
+#### 🌱 Things I'm currently working on:
+  - Finishing high school.
+  - Advanced study of Python programming language.
+  - Development of web applications.
+  - Linux operating system.
+  - software engineering .
+  - Working on automation projects 🚀
+
+#### :computer:Programming languages and tools: 
+<p>
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza01100011&layout=compact&hide_border=true&title_color=00b3ff&text_color=FFFFFF&bg_color=0d1117" />
-</div> 
-
-
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=alireza01100011&show_icons=true&hide_border=true" />
   
- <!--Total Contributions--> 
- <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=alireza01100011&theme=tokyonight_duo&hide_border=true"
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
+<br />
 
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alireza01100011}/count.svg" /></p> 
-<br>
-</div>
-  
-
-
-  
- <!------------------------------------------------Sneek Gusano-------------------------------------------->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+Last edited on: 12/02/204
